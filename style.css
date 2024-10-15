@@ -38,7 +38,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: #ffd700;
+  color: lightgray;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-style: normal;
@@ -111,13 +111,9 @@ h2 {
 }
 
 .profile_image {
-  width: 450px;
+  width: 550px;
   height: fit-content;
   vertical-align: middle;
-  margin: 20px;
-  border-radius: 50px;
-  margin-top: 60px;
-  border: 5px solid #7600bc;
 }
 
 /* Skills */
@@ -141,7 +137,7 @@ h2 {
 }
 
 .skill img {
-  height: 35px;
+  height: 60px;
   align-items: center;
 }
 
